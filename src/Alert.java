@@ -15,19 +15,19 @@ public class Alert {
 
         // Click button which generates alert box
         driver.findElement(By.xpath("//button[@onclick='generateConfirmBox()']")).click();
-        Thread.sleep(3000);
+        Thread.sleep(1000);
 
         // click ok
         driver.switchTo().alert().accept();
-        Thread.sleep(3000);
+        Thread.sleep(1000);
 
         // Click button which generates alert box
         driver.findElement(By.xpath("//button[@onclick='generateConfirmBox()']")).click();
-        Thread.sleep(3000);
+        Thread.sleep(1000);
 
         // click cancel
         driver.switchTo().alert().dismiss();
-        Thread.sleep(3000);
+        Thread.sleep(1000);
 
         driver.quit();
 
