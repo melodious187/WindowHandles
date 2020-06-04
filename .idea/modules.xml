@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WindowHandles.iml" filepath="$PROJECT_DIR$/WindowHandles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeleniumAndWebDriverWindowHandles.iml" filepath="$PROJECT_DIR$/SeleniumAndWebDriverWindowHandles.iml" />
     </modules>
   </component>
 </project>
